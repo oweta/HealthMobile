@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000090783125",
+    "project_id": "healthmobile-17275",
+    "storage_bucket": "healthmobile-17275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000090783125:android:b4c8b4f89d8bdda84dba9c",
+        "android_client_info": {
+          "package_name": "com.healthmobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000090783125-q2gte31bfg9qdkro44mjhd63aa9o1nk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3SXovDus0lK8iz2asSk-r_WimVFF_OvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000090783125-q2gte31bfg9qdkro44mjhd63aa9o1nk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
