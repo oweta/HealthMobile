@@ -1,6 +1,6 @@
 import React from "react";
-import SignupScreen from "./SignupScreen";
-import LoginScreen from "./LoginScreen";
+import SignupScreen from "./components/SignupScreen";
+import LoginScreen from "./components/LoginScreen";
 
 function App() {
   return (

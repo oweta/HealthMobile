@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { auth } from "./firebaseConfig"; // Import Firebase Auth
+import { auth } from "../firebaseConfig"; // Import Firebase Auth
 import { createUserWithEmailAndPassword } from "firebase/auth";
 
 const SignupScreen = () => {
